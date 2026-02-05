@@ -12,4 +12,6 @@ flat 30mm x 1000mm x 3mm
 a piece of wood (will be lime or beech as i only have that around)
 
 I will add the idividual dxf files as long as I make them (by hand)
+
+to see it you need to open accordinaguyboitier.scad
 we will see
