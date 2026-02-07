@@ -17,9 +17,10 @@ translate([0,0,hpd+epe])
 cylinder(etouch, d=diat); //touche
 
 translate([0,0,-ep/2-longb-ep-0.5])
-cylinder(ep, d= drtub+4);; //clapet
+cylinder(ep, d= drtub+4); //clapet
     
 }}
+
 
 //centre
 
@@ -34,7 +35,7 @@ translate([0,0,hpd+epe+escalier])
 cylinder(etouch, d=diat); //touche
     
 translate([0,0,-ep/2-longb-ep-0.5])
-cylinder(ep, d= drtub+4);; //clapet
+cylinder(ep, d= drtub+4); //clapet
 
 }}
 
@@ -49,7 +50,7 @@ translate([0,0,hpd+epe+escalier])
 cylinder(etouch, d=diat); //touvhe
     
 translate([0,0,-ep/2-longb-ep-0.5])    
-cylinder(ep, d= drtub+4);; //clapet
+cylinder(ep, d= drtub+4); //clapet
 
 }}
 
@@ -71,9 +72,10 @@ cylinder(etouch, d=diat); //touche
 
     
  translate([0,0,-ep/2-longb-ep-0.5])
-cylinder(ep, d= drtub+4);; //clapet
+cylinder(ep, d= drtub+4); //clapet
 }}
 
 
 }
 }
+

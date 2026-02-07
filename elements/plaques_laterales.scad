@@ -1,3 +1,7 @@
+include <variables.scad>
+
+
+
 //plaques laterales
 
 
@@ -51,7 +55,6 @@ cube([4,ep+0.2,hhtt-i*1.2]);
 
 }
 }
-
 
 
 

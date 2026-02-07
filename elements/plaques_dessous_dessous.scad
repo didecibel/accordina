@@ -1,3 +1,5 @@
+include <variables.scad>
+
 //plaque dessous dessous
 color("Gainsboro",0.8){
 difference(){

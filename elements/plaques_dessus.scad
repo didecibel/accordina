@@ -1,3 +1,5 @@
+include <variables.scad>
+
 //plaque dessous
 color("Gainsboro",0.8){
 
